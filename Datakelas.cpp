@@ -27,7 +27,7 @@ void tampilkanHeaderTabel() {
 void tampilkanSemuaData() {
     system("cls");
     if (pos == -1) {
-        cout << "Tidak ada data untuk ditampilkan." << endl;
+        cout << "Tidak ada data." << endl;
     } else {
         tampilkanHeaderTabel();
 
