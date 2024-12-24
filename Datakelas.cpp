@@ -168,7 +168,7 @@ void hapusData() {
                 cout << "\nPenghapusan dibatalkan." << endl;
             }
 
-            cout << "\nTekan Enter untuk kembali ke menu...";
+            cout << "\nTekan Enter kembali ke menu...";
             cin.get();
             return;
         }
