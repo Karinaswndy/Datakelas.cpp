@@ -41,7 +41,7 @@ void tampilkanSemuaData() {
                  << endl;
         }
     }
-    cout << "\nTekan Enter untuk kembali ";
+    cout << "\nTekan Enter agar kembali ";
     getch();
 }
 
