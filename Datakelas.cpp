@@ -165,7 +165,7 @@ void hapusData() {
 
                 cout << "\nData berhasil dihapus!" << endl;
             } else {
-                cout << "\nPenghapusan dibatalkan." << endl;
+                cout << "\nBatal Menghapus Data." << endl;
             }
 
             cout << "\nTekan Enter kembali ke menu...";
